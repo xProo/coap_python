@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+observe_10s.txt
+biglog_szx4.txt
